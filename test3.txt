@@ -1,1 +1,2 @@
 test3 feature 1
+minor change
